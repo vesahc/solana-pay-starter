@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Meme pack",
+    "price": "0.09",
+    "description": "Get this fire meme pack for only $0.09! Includes the hottest memes!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "gifpack.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "GifTest",
+    "price": "0.01",
+    "image_url": "https://i.imgur.com/Eic5GQF.png",
+    "description": "Just testing",
+    "filename": "gifpack.zip",
+    "hash": "QmegTBXmYH6n2WwS32A4Wp1hAaJg2oqGSYqKgqLNusEuSt"
+  }
+]
